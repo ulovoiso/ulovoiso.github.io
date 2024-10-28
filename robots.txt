@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulovoiso.github.io/sitemap_index.ulovoiso
